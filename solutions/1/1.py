@@ -6,7 +6,7 @@ userInput = input()
 
 # We use a while loop to keep executing the 3 lines it contains until the user inputs "exit"
 while userInput != "exit":
-    print("You just typed " + userInput)
+    print("You just typed " + userInput)  # We're adding two Strings together here, this is called concatenation
     print("Type another message, or 'exit' to quit")
     userInput = input()  # At the end of each iteration we want to wait for the user to type something else
 

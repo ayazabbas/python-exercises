@@ -4,8 +4,7 @@ Python2 vs Python3:
 Before you start, note that there are differences between different versions of
 Python (on pythonanywhere.com when you start a console it lets you choose a version).
 If you get errors due to using functions that changed from Python2 > Python3 then try
-to find the Python3 equivalent/work-around (you'll see an example of a difference in
-the first exercise).
+to find the Python3 equivalent/work-around.
 
 Python2 is most used in industry at the moment but it will be useful for you to learn
 Python3 and if any of the tutorials you use only work in Python2, try to find the correct
@@ -15,8 +14,8 @@ Python3 version of the code.
 
 Exercises:
 
-
-1. User Input
+--------------------------------------------------------------------------------
+1. User Input and while loops
 
   Instructions:
   - When the program is run, it should wait for the user to input something.
@@ -30,3 +29,26 @@ Exercises:
   Resources:
   - User input: https://www.cyberciti.biz/faq/python-raw_input-examples/ 
   - While loops: https://wiki.python.org/moin/WhileLoop
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+2. For loops, random numbers and the modulus operator
+
+  Instructions:
+  - Create two empty lists, one called numbers and one called evenNumbers.
+  - Populate numbers list with 20 random numbers between 1 and 100.
+  - Print the numbers list.
+  - Loop through the numbers list and add every even number you encounter to evenNumbers.
+  - Print evenNumbers.
+
+  Hints:
+  - Use a while loop when populating the list (keep adding numbers until the length of the list is 20)
+  - You can check if a number is even using the modulus operator (%)
+
+  Resources:
+  - Some information about importing: https://www.codementor.io/sheena/python-path-virtualenv-import-for-beginners-du107r3o1
+  - Information on lists: https://docs.python.org/3/tutorial/datastructures.html
+  - The len() function: https://docs.python.org/3/library/functions.html#len
+  - The random.randint() function: https://docs.python.org/3/library/random.html#random.randint
+  - For loops: https://wiki.python.org/moin/ForLoop 
+--------------------------------------------------------------------------------

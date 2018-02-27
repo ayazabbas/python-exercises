@@ -1,4 +1,4 @@
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 Python2 vs Python3:
 
 Before you start, note that there are differences between different versions of
@@ -9,14 +9,14 @@ to find the Python3 equivalent/work-around.
 Python2 is most used in industry at the moment but it will be useful for you to learn
 Python3 and if any of the tutorials you use only work in Python2, try to find the correct
 Python3 version of the code.
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 
 
 Exercises:
 
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 1. User Input and while loops
 
   Instructions:
@@ -31,10 +31,10 @@ Exercises:
   Resources:
   - User input: https://www.cyberciti.biz/faq/python-raw_input-examples/ 
   - While loops: https://wiki.python.org/moin/WhileLoop
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 2. For loops, random numbers and the modulus operator
 
   Instructions:
@@ -54,4 +54,22 @@ Exercises:
   - The len() function: https://docs.python.org/3/library/functions.html#len
   - The random.randint() function: https://docs.python.org/3/library/random.html#random.randint
   - For loops: https://wiki.python.org/moin/ForLoop 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+3. Rock, paper, scissors
+
+  Instructions:
+  - Make a rock, paper, scissors game
+  - The player should input "rock", "paper" or "scissors"
+  - The program should then output "I choose {rock/paper/scissors}" randomly selecting
+    one of the possibilities
+  - The program should workout who is the winner and say either "You win", "You lose" or "Draw"
+  - This should continue until the player types "exit"
+
+  Hints:
+  - This is very similar to the first exercise
+  - You should use a list and the randint() function to randomly select a response
+  - Try assigning a score to each possibility and then write a function to mathematically calculate the winner
+------------------------------------------------------------------------------------------

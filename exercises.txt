@@ -1,5 +1,5 @@
+--------------------------------------------------------------------------------
 Python2 vs Python3:
-
 
 Before you start, note that there are differences between different versions of
 Python (on pythonanywhere.com when you start a console it lets you choose a version).
@@ -9,10 +9,12 @@ to find the Python3 equivalent/work-around.
 Python2 is most used in industry at the moment but it will be useful for you to learn
 Python3 and if any of the tutorials you use only work in Python2, try to find the correct
 Python3 version of the code.
+--------------------------------------------------------------------------------
 
 
 
 Exercises:
+
 
 --------------------------------------------------------------------------------
 1. User Input and while loops
@@ -30,6 +32,7 @@ Exercises:
   - User input: https://www.cyberciti.biz/faq/python-raw_input-examples/ 
   - While loops: https://wiki.python.org/moin/WhileLoop
 --------------------------------------------------------------------------------
+
 
 --------------------------------------------------------------------------------
 2. For loops, random numbers and the modulus operator

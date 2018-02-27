@@ -73,3 +73,18 @@ Exercises:
   - You should use a list and the randint() function to randomly select a response
   - Try assigning a score to each possibility and then write a function to mathematically calculate the winner
 ------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+4. Character frequency
+
+  Instructions
+  - Write a program that counts the frequency of unique characters in a given string.
+  - For example, if I input "hello" the output should be {h: 1, e: 1, l: 2, o: 1}
+
+  Hints:
+  - Use the dict (dictionary) data type to store characters and their frequency as you loop through the string.
+
+  Resources:
+  - Dict data type: https://docs.python.org/2/tutorial/datastructures.html#dictionaries
+  ------------------------------------------------------------------------------------------

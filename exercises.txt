@@ -1,18 +1,3 @@
-------------------------------------------------------------------------------------------
-Python2 vs Python3:
-
-Before you start, note that there are differences between different versions of
-Python (on pythonanywhere.com when you start a console it lets you choose a version).
-If you get errors due to using functions that changed from Python2 > Python3 then try
-to find the Python3 equivalent/work-around.
-
-Python2 is most used in industry at the moment but it will be useful for you to learn
-Python3 and if any of the tutorials you use only work in Python2, try to find the correct
-Python3 version of the code.
-------------------------------------------------------------------------------------------
-
-
-
 Exercises:
 
 
